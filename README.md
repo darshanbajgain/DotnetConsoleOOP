@@ -13,6 +13,7 @@ and an indexer for accessing an array element.
 - Use of an indexer to access array elements.
 - Basic demonstration of object-oriented programming principles.
 # Source code explanation
+
 using System;
 namespace OOPConcept
 {
@@ -47,10 +48,10 @@ namespace OOPConcept
         get { return array[index]; }
         set { array[index] = value; }
     }
-}
+    }
 
-public class Program
-{
+    public class Program
+    {
     public static void Main(string[] args)
     {
         //  invoking constructor
@@ -62,5 +63,6 @@ public class Program
         // accessing array member item here where we use indexer
         Console.WriteLine("Value at index 1 of array is : "+ student[1]);
     }
-}
+    }
+
 }

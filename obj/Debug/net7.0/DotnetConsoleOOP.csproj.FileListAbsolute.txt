@@ -1,0 +1,15 @@
+/home/darshan/Desktop/DotnetConsoleOOP/bin/Debug/net7.0/DotnetConsoleOOP
+/home/darshan/Desktop/DotnetConsoleOOP/bin/Debug/net7.0/DotnetConsoleOOP.deps.json
+/home/darshan/Desktop/DotnetConsoleOOP/bin/Debug/net7.0/DotnetConsoleOOP.runtimeconfig.json
+/home/darshan/Desktop/DotnetConsoleOOP/bin/Debug/net7.0/DotnetConsoleOOP.dll
+/home/darshan/Desktop/DotnetConsoleOOP/bin/Debug/net7.0/DotnetConsoleOOP.pdb
+/home/darshan/Desktop/DotnetConsoleOOP/obj/Debug/net7.0/DotnetConsoleOOP.csproj.AssemblyReference.cache
+/home/darshan/Desktop/DotnetConsoleOOP/obj/Debug/net7.0/DotnetConsoleOOP.GeneratedMSBuildEditorConfig.editorconfig
+/home/darshan/Desktop/DotnetConsoleOOP/obj/Debug/net7.0/DotnetConsoleOOP.AssemblyInfoInputs.cache
+/home/darshan/Desktop/DotnetConsoleOOP/obj/Debug/net7.0/DotnetConsoleOOP.AssemblyInfo.cs
+/home/darshan/Desktop/DotnetConsoleOOP/obj/Debug/net7.0/DotnetConsoleOOP.csproj.CoreCompileInputs.cache
+/home/darshan/Desktop/DotnetConsoleOOP/obj/Debug/net7.0/DotnetConsoleOOP.dll
+/home/darshan/Desktop/DotnetConsoleOOP/obj/Debug/net7.0/refint/DotnetConsoleOOP.dll
+/home/darshan/Desktop/DotnetConsoleOOP/obj/Debug/net7.0/DotnetConsoleOOP.pdb
+/home/darshan/Desktop/DotnetConsoleOOP/obj/Debug/net7.0/DotnetConsoleOOP.genruntimeconfig.cache
+/home/darshan/Desktop/DotnetConsoleOOP/obj/Debug/net7.0/ref/DotnetConsoleOOP.dll
